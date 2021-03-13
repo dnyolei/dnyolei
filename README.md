@@ -1,6 +1,9 @@
+## Douglas Nyolei
+
+Land and Water Resources Specialist/Engineer with a background in Land and Water resources management in the agriculture and water sectors. Experienced in decision supports systems (DSS) for land & water management and development ranging from Geo-information systems, Remote sensing and python programming. Currently serving as a Research Fellow (PhD) at the [Vrije Universiteit Brussel](https://www.vub.be/) under the [Department of Hydrology and Hydraulics Engineering](http://www.hydr.vub.ac.be/)
+
 ### Hi there 👋
 
-<!--
 **dnyolei/dnyolei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
